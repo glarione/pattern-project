@@ -1,3 +1,4 @@
+# I used this repo to study patterns usage and common principles in backed development :) 
 # Example application code for the python architecture book
 
 ## Chapters
